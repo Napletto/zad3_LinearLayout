@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">28-09</string>
+    <string name="email">Podaj email:</string>
+    <string name="email_tekst">ewa@poczta.pl</string>
+    <string name="haslo">Podaj hasło:</string>
+    <string name="haslo2">Powtórz hasło:</string>
+    <string name="przycisk">ZATWIERDŹ</string>
+    <string name="wynik">Witaj ewa@poczta.pl</string>
+</resources>
