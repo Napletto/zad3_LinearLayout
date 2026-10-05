@@ -1,0 +1,1 @@
+activity_main.xml ma 84 linie, a activity_main_constraint.xml ma 101 linii. Szybszy do napisania był LinearLayout, ponieważ nie trzeba było ustawiać constraintów dla każdego elementu. Łatwiej zmienić ConstraintLayout, ponieważ przy dodawaniu pola w środku formularza można zmienić tylko odpowiednie constrainty.
